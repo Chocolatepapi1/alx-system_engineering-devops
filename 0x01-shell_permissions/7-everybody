@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u80+x hello
+chmod 480+x hello
